@@ -36,3 +36,8 @@ clickLesserafim.addEventListener('click', function() {
 	const year = new Date().getFullYear();
 	$w('#copyrightfooter').text = `© ${year} Wolfpack`
 });  */
+
+
+
+
+
